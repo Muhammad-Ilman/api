@@ -1,0 +1,14 @@
+{
+  "name" : "M. Ilman Pratama Supardi Putra",
+  "nik" : 3203031603060002,
+  "passed" : true,
+  "hobby" : [
+    "programming",
+    "learning"
+  ],
+  "guru" : {
+    "math" : "Deby Swargy, S.Pd.",
+    "science" : "Anisa Illahi, S.Pd",
+    "art" : "Ira Lestari, S.Pd"
+  }
+}

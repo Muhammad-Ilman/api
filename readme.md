@@ -21,12 +21,12 @@ Web API atau Web Service adalah sebuah sistem perangkat lunak yang dibuat untuk 
 
 # REST dan HTTP
 
-Rest adalah **gaya arsitektural** yang didalamnya mendefinisikan aturan-aturan untuk membuat web servcice, diciptakan oleh ***Roy Fielding*** hasil disertasi S3 p
+Rest adalah **gaya arsitektural** yang didalamnya mendefinisikan aturan-aturan untuk membuat web servcice, diciptakan oleh ***Roy Fielding*** hasil disertasi S3 pHD
 
 - Dapur -> Server
 - Pelayan -> API
 - Menu -> Rest API (Aturan)
-- Pembeli -> Client\
+- Pembeli -> Client
 
 URL (Uniform Resource Locator)
 
@@ -34,3 +34,8 @@ URL (Uniform Resource Locator)
 - Menggunakan HTTP Method yang benar (POST, GET, PUT, DELETE)
 - URI / enpoints nya menggunakan kata benda bukan kata kerja
 - Stateles -> Server tidka boleh menyimpan session
+
+# JSON (Javascript Object Notation)
+JSON adalah sebuah file format standar yang menggunakan tulisan yang dapat dibaca oleh manusia untuk pertukaran data, yang didalamnya berisi pasangan antara key dan value (selalu dibungkus dengan "").
+
+Karya dari Douglas Crockford
